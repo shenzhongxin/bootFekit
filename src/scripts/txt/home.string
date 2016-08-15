@@ -1,0 +1,83 @@
+<header class="header">
+		<ul>
+			<li>
+				<i class="yo-ico">&#xe859;</i>
+			</li>
+			<li>
+				<ol>
+					<li>热点</li>
+					<li class="colorBg">关注</li>
+				</ol>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe684;</i>
+			</li>
+		</ul>
+	</header>
+	<section class="main" spa-widget="scroll">
+		<div>	
+			<nav class="nav">
+				<ul>
+					<li class="borderBg">足球现场</li>
+					<li>足球生活</li>
+					<li>足球美女</li>
+				</ul>
+			</nav>
+			<section class="content">
+				<ul>
+					<li>
+						<ol>
+							<li>
+								<img src="./images/img/img1.jpg">
+								<b>朴智星:韩国战中国需...</b>
+							</li>
+							<li></li>
+							<li>
+								<img src="./images/img/img2.jpg">
+								<b>黄博文杜威微博表决...</b>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<ol>
+							<li>
+								<img src="./images/img/img3.jpg">
+								<b>颜强:国足出线与否...</b>
+							</li>
+							<li></li>
+							<li>
+								<img src="./images/img/img4.jpg">
+								<b>吴曦:渴望12强战出...</b>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<ol>
+							<li>
+								<img src="./images/img/img1.jpg">
+								<b>朴智星:韩国战中国需...</b>
+							</li>
+							<li></li>
+							<li>
+								<img src="./images/img/img2.jpg">
+								<b>黄博文杜威微博表决...</b>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<ol>
+							<li>
+								<img src="./images/img/img3.jpg">
+								<b>颜强:国足出线与否...</b>
+							</li>
+							<li></li>
+							<li>
+								<img src="./images/img/img4.jpg">
+								<b>吴曦:渴望12强战出...</b>
+							</li>
+						</ol>
+					</li>
+				</ul>
+			</section>	
+		</div>
+	</section>

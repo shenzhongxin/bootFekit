@@ -1,0 +1,12 @@
+<div class="container">
+	<section class="c_main"></section>
+	<footer class="footer">
+		<nav class="f_nav">
+			<a href="#" action-type="changPage" data-name="home" class="colorBg"><i class="yo-ico">&#xe619;</i><br><b>首页</b></a>
+			<a href="#" action-type="changPage" data-name="search"><i class="yo-ico">&#xe65d;</i><br><b>发现</b></a>
+			<a href="#" action-type="changPage"><i class="yo-ico">&#xe678;</i></a>
+			<a href="#" action-type="changPage" data-name="my"><i class="yo-ico">&#xe61b;</i><br><b>我的</b></a>
+			<a href="#" action-type="changPage"><i class="yo-ico">&#xe68f;</i><br><b>退出</b></a>	
+		</nav>
+	</footer>
+</div>
